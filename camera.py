@@ -24,7 +24,7 @@ import time
 from PySide6.QtCore import QThread
 
 
-1234
+1234123
 class MyThread(QThread):
     sinSnap = Signal()
     sinAF = Signal()
